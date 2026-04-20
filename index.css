@@ -89,6 +89,10 @@ body {
     letter-spacing: 0.6px;
   }
 
+  .indent{
+    text-indent: 30px;
+  }
+
   .profile-pic {
     width: 150px;
     height: 150px;

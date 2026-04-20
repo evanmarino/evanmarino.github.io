@@ -1,0 +1,47 @@
+  body {
+    background-color: #e9a853;
+    font-family: Garamond;
+  }
+
+  .box { 
+    position: absolute;
+    right: 140px;
+    top: 70px;
+    padding: 20px;
+    padding-left: 60px;
+    background-color: rgb(247, 247, 240, 0.5);
+    padding-top: 35px;
+    width: 1090px;
+    height: 620px;
+    color: white;
+  }
+
+  h1 {
+    font-size: 60px;
+    font-family: "Inter", sans-serif;
+    font-weight: 600;
+    color: black;
+  }
+
+
+  .top-menu {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    margin-top: 11px;
+  
+    display: flex;
+    justify-content: center;
+    gap: 90px;
+  
+    background-color: transparent;
+    padding: 15px 0;
+  }
+
+  .top-menu a{
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    letter-spacing: 1.5px;
+  }
